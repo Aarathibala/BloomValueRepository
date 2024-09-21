@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.35213.121
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "BloomValue_IPBills_System", "BloomValue_IPBills_System\BloomValue_IPBills_System.dtproj", "{2CE5807D-9654-4779-989D-2A5564746546}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Azure|Default = Azure|Default
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2CE5807D-9654-4779-989D-2A5564746546}.Azure|Default.ActiveCfg = Azure
+		{2CE5807D-9654-4779-989D-2A5564746546}.Azure|Default.Build.0 = Azure
+		{2CE5807D-9654-4779-989D-2A5564746546}.Development|Default.ActiveCfg = Development
+		{2CE5807D-9654-4779-989D-2A5564746546}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E214F314-9BF5-4C57-B200-5B06C037D67D}
+	EndGlobalSection
+EndGlobal
